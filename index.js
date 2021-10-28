@@ -117,4 +117,4 @@ client.on("clickButton", async (button) => {
 })
 //====================================================================================================================================================
 keepAlive()
-client.login(client.config.token);
+client.login(ODc5MjUyOTU5NDAwMTgxNzcw.YSNCIQ.ehknDWHyrZ0qXX6c_SByyD7NyIo)
