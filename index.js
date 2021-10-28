@@ -1,7 +1,6 @@
 
 const fs = require('fs');
 const discord = require('discord.js');
-const keepAlive = require("./server")
 const client = new discord.Client({ disableMentions: 'everyone' });
 const disbut = require("discord-buttons");
 
@@ -116,5 +115,5 @@ client.on("clickButton", async (button) => {
   }
 })
 //====================================================================================================================================================
-keepAlive()
+
 client.login("ODc5MjUyOTU5NDAwMTgxNzcw.YSNCIQ.ehknDWHyrZ0qXX6c_SByyD7NyIo")
