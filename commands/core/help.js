@@ -14,11 +14,11 @@ let button2 = new disbut.MessageButton()
 let buttoninv = new disbut.MessageButton()
   .setStyle('url')
   .setLabel('Invite Me')
-  .setURL("https://discord.com/api/oauth2/authorize?client_id=874331453666766879&permissions=8&scope=bot");
+  .setURL("https://discordbotlist.com/bots/overnight");
 let buttonsupport = new disbut.MessageButton()
       .setStyle('url')
       .setLabel('Support Server') 
-      .setURL("https://discord.gg/GE4mHjJuYf");
+      .setURL("https://discord.gg/rJadNznM");
 let row1 = new disbut.MessageActionRow()
   .addComponent(buttoninv)
   .addComponent(button1)
