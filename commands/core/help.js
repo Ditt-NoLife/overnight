@@ -40,7 +40,7 @@ module.exports = {
       let helpEmbed = new Discord.MessageEmbed()
         .setTitle(" Help Panel")
         .setColor("cccfff")
-        .setDescription("Starsssss-MUsic")
+        .setDescription("OverNight")
         .addField(
         "Music:",
         "`clear-queue`, `filter`, `loop`, `nowplaying`, `pause`, `play`, `queue`, `resume`, `search`, `shuffle`, `skip`, `stop`, `volume`, `w-filters`")
