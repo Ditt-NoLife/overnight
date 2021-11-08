@@ -18,7 +18,7 @@ let buttoninv = new disbut.MessageButton()
 let buttonsupport = new disbut.MessageButton()
       .setStyle('url')
       .setLabel('Support Server') 
-      .setURL("https://discord.gg/rJadNznM");
+      .setURL("https://discord.gg/kWkrbdDp3U");
 let row1 = new disbut.MessageActionRow()
   .addComponent(buttoninv)
   .addComponent(button1)
