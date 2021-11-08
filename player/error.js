@@ -16,6 +16,6 @@ module.exports = (client, error, message, ...args) => {
             message.channel.send(`The music is starting... please wait and retry!`);
             break;
         default:
-            message.channel.send(`${client.emotes.music} - Join Our Discord Server \n https://discord.gg/F6MuTsdK `);
+            message.channel.send(`${client.emotes.music} - Maybe You See A Bug Pls Dm NoLife#4680 Or Join /n https://discord.gg/kWkrbdDp3U `);
     };
 };
