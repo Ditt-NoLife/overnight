@@ -46,7 +46,7 @@ module.exports = {
         "`clear-queue`, `filter`, `loop`, `nowplaying`, `pause`, `play`, `queue`, `resume`, `search`, `shuffle`, `skip`, `stop`, `volume`, `w-filters`")
       
       .setThumbnail(client.user.displayAvatarURL())
-      .setFooter("BOT DEVELOPERS: Nolife | Prefix: *")
+      
       return message.channel.send(helpEmbed,row1);
       message.channel.send({
         embed: {
