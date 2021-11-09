@@ -44,19 +44,19 @@ for (const file of player) {
 let helpEmbed = new Discord.MessageEmbed()
   .setTitle(" Help Panel ")
   .setColor("#060000")
-  .setDescription("Starssss-Music.")
+  .setDescription("OverNight.")
   .addField(
     "Music:",
     "`clear-queue`, `filter`, `loop`, `nowplaying`, `pause`, `play`, `queue`, `resume`, `search`, `shuffle`, `skip`, `stop`, `volume`, `w-filters`")
-  .setFooter("BOT DEVELOPERS: Nolife | Prefix: -")
+  
 let filterEmbed = new Discord.MessageEmbed()
   .setTitle("Help Panel")
   .setColor("#060000")
-  .setDescription("Starssss-Music.")
+  .setDescription("OverNight.")
   .addField(
     "Filters:",
     "`8D` `Haas` `Treble` `Vibrato` `Karaoke` `Mcompand` `Subboost` `Vaporwave` `Normalizer` `Gate` `Phaser` `Tremolo` `Reverse` `Flanger` `Pulsator` `Bassboost` `Nightcore` `Surrounding`")
-  .setFooter("BOT DEVELOPERS: Nolife | Prefix: -")
+  
 //making buttons again
 //==========================================================================================================================================
 let button1 = new disbut.MessageButton()
@@ -76,7 +76,7 @@ let buttoninv = new disbut.MessageButton()
 let buttonsupport = new disbut.MessageButton()
   .setStyle('url')
   .setLabel('Support Server')
-  .setURL("https://discord.gg/vBXB4UaK");
+  .setURL("https://discord.gg/kWkrbdDp3U");
 //Making Rows
 //====================================================================================================================================================
 let row1 = new disbut.MessageActionRow()
