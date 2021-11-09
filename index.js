@@ -47,7 +47,7 @@ let helpEmbed = new Discord.MessageEmbed()
   .setDescription("OverNight.")
   .addField(
     "Music:",
-    "`clear-queue`, `filter`, `loop`, `nowplaying`, `pause`, `play`, `queue`, `resume`, `search`, `shuffle`, `skip`, `stop`, `volume`, `w-filters`")
+    "`clear-queue`\n `filter`\n `loop`\n `nowplaying`\n `pause`\n `play`\n `queue`\n `resume`\n `search`\n `shuffle`\n `skip`\n `stop`\n `volume`\n `w-filters`")
   
 let filterEmbed = new Discord.MessageEmbed()
   .setTitle("Help Panel")
@@ -55,7 +55,7 @@ let filterEmbed = new Discord.MessageEmbed()
   .setDescription("OverNight.")
   .addField(
     "Filters:",
-    "`8D` `Haas` `Treble` `Vibrato` `Karaoke` `Mcompand` `Subboost` `Vaporwave` `Normalizer` `Gate` `Phaser` `Tremolo` `Reverse` `Flanger` `Pulsator` `Bassboost` `Nightcore` `Surrounding`")
+    "`8D`\n`Haas`\n`Treble`\n`Vibrato`\n`Karaoke`\n`Mcompand`\n`Subboost`\n`Vaporwave`\n `Normalizer`\n `Gate`\n `Phaser`\n `Tremolo`\n `Reverse`\n `Flanger`\n `Pulsator`\n `Bassboost`\n `Nightcore`\n `Surrounding`")
   
 //making buttons again
 //==========================================================================================================================================
