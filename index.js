@@ -116,4 +116,4 @@ client.on("clickButton", async (button) => {
 })
 //====================================================================================================================================================
 
-client.login("ODc5MjUyOTU5NDAwMTgxNzcw.YSNCIQ.ehknDWHyrZ0qXX6c_SByyD7NyIo")
+client.login()
